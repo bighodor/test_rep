@@ -12,5 +12,7 @@ def func_main(data, another_data):
 
 
 res = func_main(data, another_data)
-print(f"Результат:\n"
-      f"{res}")
+print(f"Результат равен:\n"
+      f"{res}.\n"
+      f"Точно {res}?\n"
+      f"Точно!")
